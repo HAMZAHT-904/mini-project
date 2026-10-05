@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+temp_repos/*
+!temp_repos/.gitkeep
+.env
