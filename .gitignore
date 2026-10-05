@@ -5,3 +5,4 @@ __pycache__/
 temp_repos/*
 !temp_repos/.gitkeep
 .env
+.agents/
